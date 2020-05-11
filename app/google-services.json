@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688162307369",
+    "firebase_url": "https://durgaenterprises-3c070.firebaseio.com",
+    "project_id": "durgaenterprises-3c070",
+    "storage_bucket": "durgaenterprises-3c070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688162307369:android:60c838953c5c84d19b4b38",
+        "android_client_info": {
+          "package_name": "com.kb7.durgaenterprises"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688162307369-0vbam2esfeg73vin3u5r3fvvvhc8dkck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kb7.durgaenterprises",
+            "certificate_hash": "9b80cc57933d2d873c3b5856d539d2936216932b"
+          }
+        },
+        {
+          "client_id": "688162307369-2kep8vmridc16makclmhkih632hd6te2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrErylNGn86B5AQVFJQkkwZBxpymQk7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688162307369-2kep8vmridc16makclmhkih632hd6te2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
